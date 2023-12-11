@@ -135,6 +135,14 @@ footer {
     #home{
         background-image: none;
     }
+
+    #services-cont{
+        flex-direction: column;
+    }
+
+    .card{
+        width: auto;
+    }
     form {
         max-width: 600px;
         margin: 0 auto;
